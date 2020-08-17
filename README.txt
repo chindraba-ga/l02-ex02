@@ -18,7 +18,7 @@ Lesson 2: Computers Out: CSS Exploration
 This example contains a real piece of of a website. Apply all you've learned
 with CSS and experiment. Remember, there's more than one right answer!
 
-The starter code is:
+The starter code was:
 
 - HTML
 
