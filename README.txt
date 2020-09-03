@@ -1,5 +1,5 @@
 l02-ex02
-* Status: Submitted
+* Status: Final
 * CodePen: <https://codepen.io/chindraba-ga/pen/mdPymwo>
 * Live page: <https://www.chindraba.work/fewd/l02-ex02.html>
 
