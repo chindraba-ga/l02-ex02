@@ -1,7 +1,7 @@
 l02-ex02
 * Status: Final
 * CodePen: <https://codepen.io/chindraba-ga/pen/mdPymwo>
-* Live page: <https://fewd.chindraba.work/lessons/l02-ex02/project_page.html>
+* Live page: <https://fewd.chindraba.work/lessons/l02-ex02/index.html>
 
 Contents
 ================================================================================
